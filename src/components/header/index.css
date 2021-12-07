@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: black;
+  padding: 10px;
+}
+
+.headerTitle {
+  color: white;
+  font-size: 22px;
+}
+
+.headerHelp {
+  color: white;
+}
